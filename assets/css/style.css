@@ -207,3 +207,10 @@
         border-radius: 50%;
     }
 }
+
+@media (max-width: 576px) {
+    .price-txt-box {
+        height: 300px;
+        width: 300px;
+    }
+}
